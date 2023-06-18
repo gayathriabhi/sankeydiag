@@ -1,0 +1,32 @@
+{
+  "incomes": [
+      {
+          "name": "salary",
+          "amount": 30000,
+          "expenses": [
+              {
+                  "name": "grocery",
+                  "amount": 20000
+              },
+              {
+                  "name": "househelp_salary",
+                  "amount": 10000
+              }
+          ]
+      },
+      {
+        "name": "house_rent_income",
+        "amount": 30000,
+        "expenses": [
+          {
+            "name": "house_maintenance",
+             "amount": 10000
+          },
+          {
+             "name": "property_tax",
+             "amount": 20000
+          }
+        ]
+      }
+  ]
+}
